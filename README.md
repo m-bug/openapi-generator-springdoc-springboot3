@@ -2,7 +2,7 @@
 
 Steps to consider
 
-##: Check the swagger editor and create your open-api-specification
+## Check the swagger editor and create your open-api-specification
 [Swagger Editor](https://editor.swagger.io/)
 
 ## URL of the swagger docs
